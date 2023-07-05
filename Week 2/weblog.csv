@@ -1,0 +1,11 @@
+Time,HTTPMethod,UserAgent,QueryString,IP Address,StatusCode
+09:01,GET,Windows 10/ Edge browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64),?source=1,228.186.221.11,200
+09:01,GET,Windows 7/ Chrome browser: Mozilla/5.0 (Windows NT 6.1; WOW64) ,?source=1,253.161.161.25,200
+09:01,GET,Mac OS X10/Safari browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2),?source=1,78.23.184.130,200
+09:02,GET,Linux PC/Firefox browser: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) ,?source=2,65.17.130.93,200
+09:02,GET,Chrome OS/Chrome browser: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) ,?source=3,174.64.50.210,200
+09:02,GET,Android/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) ,?source=2,15.213.55.140,200
+09:02,GET,Android/10: Mozilla/5.0 (Linux; Android 6.0; HTC One X10 Build/MRA58K; wv),?source=1,114.2.51.132,200
+09:03,GET,Mac OS X10/Safari (iPhone; CPU iPhone OS 12_0 like Mac OS X) ,?source=3,215.49.103.145,200
+09:03,GET,Windows 10/ Edge browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64),?source=3,222.32.78.2,200
+09:03,GET,Windows 10/ Edge browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64),?source=1,193.27.154.245,200
